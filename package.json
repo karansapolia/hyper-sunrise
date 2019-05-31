@@ -1,0 +1,34 @@
+{
+    "name": "hyper-sunrise",
+    "version": "1.0.0",
+    "description": "The Hyper Sunrise theme",
+    "contributors": [
+      {
+        "name": "Karan Sapolia",
+        "email": "sapoliakaran@gmail.com",
+        "url": "https://github.com/karansapolia"
+      }
+    ],
+    "license": "MIT",
+    "repository": "https://github.com/karansapolia/hyper-sunrise",
+    "files": [
+      "index.js"
+    ],
+    "keywords": [
+      "hyper",
+      "hyper-theme",
+      "hyper-plugin",
+      "hyperterm",
+      "theme",
+      "ui",
+      "terminal",
+      "zeit",
+      "karansapolia",
+      "karan",
+      "sunrise",
+      "dawn",
+      "dusk",
+      "mellow",
+      "sapolia"
+    ]
+  }
